@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/otsneh/react-boilerplate/issues"
   },
-  "homepage": "https://github.com/otsneh/react-boilerplate#readme"
+  "homepage": "https://github.com/otsneh/react-boilerplate#readme",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
+  }
 }
