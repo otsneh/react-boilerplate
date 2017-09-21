@@ -5,4 +5,7 @@ Minimalistic boilerplate code for creating a react application
 `npm install`
 
 ## Run dev server:
-`npm start`
+`npm run start`
+
+## Compile code for production:
+`npm run build`
